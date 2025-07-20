@@ -1,4 +1,5 @@
 flask
-binance
-pandas
+requests
+python-binance
+python-dotenv
 numpy
